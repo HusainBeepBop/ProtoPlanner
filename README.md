@@ -34,16 +34,16 @@ No more accidentally bridging the wrong pins or tracing messy wires in your head
 
 ### Installation
 1. Clone the repository to your local machine:
-   ```bash
+```bash
 git clone https://github.com/yourusername/perfboard-planner.git
 cd perfboard-planner
 ```
 2. Install dependencies:
-   ```bash
+```bash
 pip install Pillow
 ```
 3. Run the application:
-   ```bash
+```bash
 python perfboard_planner.py
 ```
 
@@ -73,14 +73,14 @@ Contributions are what make the open-source community an amazing place to learn,
 1. Fork the project.
 2. Create an issue describing your idea or bug.
 3. Create a feature branch from `dev`:
-   ```bash
+```bash
 git checkout dev
 git pull origin dev
 git checkout -b feature/your-feature-name
 ```
 4. Make your changes and commit them with clear messages.
 5. Push your branch to your fork:
-   ```bash
+```bash
 git push origin feature/your-feature-name
 ```
 6. Open a pull request from your branch into `dev`.
