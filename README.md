@@ -9,7 +9,7 @@ Perfboard Planner is a lightweight, responsive Python desktop application built 
 
 No more accidentally bridging the wrong pins or tracing messy wires in your head!
 
-![License](https://img.shields.io/github/license/yourusername/perfboard-planner?style=flat-square)
+![License](https://github.com/HusainBeepBop/ProtoPlanner/blob/main/LICENSE)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
 
 ---
